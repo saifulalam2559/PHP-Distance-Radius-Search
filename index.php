@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Distance Radius Search</title>
+    <title>Distance Radius Search without 3rd party API</title>
 </head>
 <body>
     <h1>Distance Radius Search</h1>
